@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Osarenogae Osahon</h1>
+My name is Osarenogae Osahon
 <h3 align="center">A passionate web developer/frontend developer</h3>
 
 - 🌱 I’m currently learning **Java script, react, vue, gsap**
